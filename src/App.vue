@@ -3,7 +3,7 @@
     <!-- <vue-csv-import v-model="products" :map-fields="['name', 'price', 'barcode']"></vue-csv-import> -->
 
     <div class="flex flex-wrap ">
-      <div class="mb-8 p-2 border border-gray-900" v-for="product in products" :key="product.barcode">
+      <div class="mb-2 p-2 border border-gray-900" v-for="product in products" :key="product.barcode">
         <p class="ml-2">{{product.name}}</p>
         <div class="flex items-center">
           <barcode
