@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "tailwindcss": "^1.8.10",
     "vue": "^2.6.11",
     "vue-barcode": "^1.2.0",
     "vue-csv-import": "^3.3.5",
