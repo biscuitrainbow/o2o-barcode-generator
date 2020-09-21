@@ -9,6 +9,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
+    "vue-barcode": "^1.2.0",
+    "vue-csv-import": "^3.3.5",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {
